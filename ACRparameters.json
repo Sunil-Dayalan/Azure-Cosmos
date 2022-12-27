@@ -6,7 +6,7 @@
             "value": "acrpythonapi"
         },
         "registryLocation": {
-            "value": "eastus"
+            "value": "westus"
         },
         "zoneRedundancy": {
             "value": "disabled"
